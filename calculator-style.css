@@ -1,0 +1,51 @@
+/* Styling Table */
+
+table {
+    color: #fff;
+    text-align: center;
+    border-collapse: collapse;
+    font: normal 3em Arial, Helvetica, sans-serif;
+}
+
+
+/** Styling Rows **/
+
+tr {
+    height: 16.02vh;
+    background-color: #4e494d;
+}
+
+
+/** Styling Columns **/
+
+td {
+    width: 25vw;
+    border: 1px solid #4e494d;
+}
+
+
+/* Styling Input Box */
+
+#inputBox {
+    background-color: #4e494d;
+    text-align: right;
+    width: 100%;
+    font-size: 2em;
+    color: #fff;
+    border: 0px;
+}
+
+
+/* Styling Buttons */
+
+.digitButton {
+    background-color: #807e80;
+}
+
+.operatorButton {
+    background-color: rgb(245, 48, 48);
+}
+
+.ACButton {
+    background-color: #656166;
+}
